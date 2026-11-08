@@ -2,8 +2,6 @@
 
 ## Inverno 2026/2027 - LEETC51D
 
-<br>
-
 **Professor:**
 João Patriarca, gabinete F.0.23
 
@@ -20,8 +18,10 @@ João Patriarca, gabinete F.0.23
 **Info:**
 
 - [Informações gerais (provisórias)](link em construção)
+- Neste repositório estão disponíveis os slides apresentados nas aulas, código apresentados nos slides e nas aulas, e código que serve de base aos trabalhos práticos.
 
 **Moodle:**
 
 - [Geral](https://2627moodle.isel.pt/course/view.php?id=11141)
 - [LEETC51D](https://2627moodle.isel.pt/course/view.php?id=11141)
+
