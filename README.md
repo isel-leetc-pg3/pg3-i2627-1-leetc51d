@@ -18,10 +18,24 @@ João Patriarca, gabinete F.0.23
 **Info:**
 
 - [Informações gerais (provisórias)](link em construção)
-- Neste repositório estão disponíveis os slides apresentados nas aulas, código apresentados nos slides e nas aulas, e código que serve de base aos trabalhos práticos.
 
 **Moodle:**
 
 - [Geral](https://2627moodle.isel.pt/course/view.php?id=11141)
 - [LEETC51D](https://2627moodle.isel.pt/course/view.php?id=11141)
 
+**Organização do repositório**
+
+Neste repositório estão disponíveis os slides apresentados nas aulas, código apresentados nos slides e nas aulas, enunciados dos trabalhos práticos e código que serve de base aos trabalhos práticos.
+
+O repositório está organizado nas seguintes pastas:
+
+- Slides: ficheiros PDF com os slides apresentados nas aulas
+- Code: código fonte em Java com a seguinte organização:
+
+  - src/slides: código dos slides
+  - src/trabN: código base para o trabalho N
+  - test: testes unitários
+
+- Trabs: enunciados dos trabalhos práticos
+- Testes: enunciados dos testes/exames do semestre corrente
